@@ -1,9 +1,5 @@
 package demo;
 
-import org.openqa.selenium.chrome.ChromeDriver;
-
-import io.github.bonigarcia.wdm.WebDriverManager;
-
 
 public class TestCases {
     // ChromeDriver driver;
