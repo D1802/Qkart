@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Name - _Project Author (Change Me)_
 
 ## Project Name and Description:
@@ -22,3 +23,7 @@ Provide sample code or usage scenarios to showcase how the project works.
 ## Important Links:
 Details about useful external links
  
+=======
+# Qkart
+End To End TestCase Coverage
+>>>>>>> 144f34b8bb9f1ae35e256d2b5f846f2de2993687
